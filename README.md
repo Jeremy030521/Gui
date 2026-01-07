@@ -1,5 +1,6 @@
 # Gui
-This system provides a user-friendly graphical user interface (GUI) to allow users to easily interact with the scheduling simulator without using command-line operations.
+//This system provides a user-friendly graphical user interface (GUI) to allow users to easily interact with the scheduling simulator without using command-line operations.
+
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.stage.Stage;
